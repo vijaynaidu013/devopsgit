@@ -1,2 +1,0 @@
-# devopsgit
-devopsgit repository
